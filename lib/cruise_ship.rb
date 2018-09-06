@@ -13,6 +13,7 @@ def select_winner(passengers)
     if key == :suite_a
       winner = value
     end
+  end
     
     return winner
 end
